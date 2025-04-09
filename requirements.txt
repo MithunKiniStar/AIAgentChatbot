@@ -1,0 +1,36 @@
+# Web UI
+streamlit>=1.26.0
+watchdog>=3.0.0
+
+# LangChain
+langchain>=0.0.335
+langchain-community>=0.0.19
+langchain-openai>=0.0.5
+langchain-groq>=0.0.2
+langchain-google-genai>=0.0.3
+
+# LLM Providers
+openai>=1.3.0
+groq>=0.4.0
+google-generativeai>=0.3.0
+
+# Vector Storage
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+
+# Document Processing
+pypdf>=3.15.1
+sentence-transformers==2.2.2
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Local LLM
+llama-cpp-python>=0.2.20
+torch>=2.0.0
+huggingface-hub>=0.20.3
+
+# Utilities
+python-dotenv>=1.0.0
+requests==2.31.0
+tqdm>=4.66.0
+pydantic>=2.0.0 

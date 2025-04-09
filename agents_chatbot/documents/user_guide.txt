@@ -1,0 +1,124 @@
+# User Guide
+
+## Getting Started
+
+### System Requirements
+- Operating System: Windows 10/11, macOS 10.15+, or Linux (Ubuntu 20.04+)
+- Browser: Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
+- Internet Connection: Broadband (1 Mbps or faster)
+- Screen Resolution: Minimum 1280 x 720
+
+### Account Creation
+1. Visit the application website
+2. Click "Sign Up" in the top-right corner
+3. Enter your email address and create a password
+4. Verify your email address by clicking the link sent to your inbox
+5. Complete your profile information
+
+## Dashboard Overview
+
+The dashboard is your central hub for accessing all features and information:
+
+### Main Navigation
+- **Home**: Overview of your recent activity and important notifications
+- **Tasks**: View and manage your assigned tasks
+- **Projects**: Access all projects you're involved with
+- **Calendar**: Schedule view of deadlines and meetings
+- **Reports**: Analytics and data visualization
+- **Settings**: Configure your account preferences
+
+### Quick Actions
+- **Create Task**: Add a new task to your workflow
+- **Start Timer**: Begin tracking time for a specific task
+- **Add Note**: Create a quick note for later reference
+- **Invite Team Member**: Send an invitation to collaborate
+
+## Task Management
+
+Tasks are the fundamental units of work within the system.
+
+### Creating Tasks
+1. Click the "+" button in the Tasks section
+2. Enter a descriptive title
+3. Select a due date (optional)
+4. Assign to a user or team (default is yourself)
+5. Add details in the description field
+6. Set priority level (Low, Medium, High, Urgent)
+7. Add tags for categorization
+8. Click "Create" to save
+
+### Task States
+- **Backlog**: Tasks that are not yet scheduled
+- **To Do**: Tasks that are ready to be worked on
+- **In Progress**: Tasks currently being worked on
+- **Review**: Tasks awaiting approval or verification
+- **Done**: Completed tasks
+
+### Task Actions
+- Edit task details
+- Change task state
+- Add comments
+- Attach files
+- Create subtasks
+- Set dependencies
+- Log time spent
+- Subscribe for notifications
+
+## Project Management
+
+Projects help organize related tasks and team efforts.
+
+### Creating a Project
+1. Navigate to the Projects section
+2. Click "New Project"
+3. Enter project name and description
+4. Set start and end dates
+5. Add team members
+6. Configure project settings
+7. Click "Create Project"
+
+### Project Views
+- **Overview**: General project information and progress
+- **Board**: Kanban-style view of tasks organized by state
+- **List**: Detailed list view of all project tasks
+- **Timeline**: Gantt chart showing task dependencies and timeline
+- **Calendar**: Date-based view of project deadlines
+- **Files**: Repository for all project-related documents
+- **Discussions**: Team communication thread
+
+## Generating Reports
+
+Reports provide insights into productivity and progress.
+
+### Standard Reports
+- **Productivity Report**: Analysis of completed work over time
+- **Time Tracking Report**: Breakdown of time spent on different tasks
+- **Project Status Report**: Overview of project health and progress
+- **Team Performance Report**: Metrics on team activity and completion rates
+
+### Custom Reports
+1. Go to Reports section
+2. Click "Create Custom Report"
+3. Select data points to include
+4. Configure visualizations
+5. Set filters to focus on specific information
+6. Save report configuration
+7. Schedule automated generation (optional)
+
+## Keyboard Shortcuts
+
+- **Ctrl/Cmd + N**: Create new task
+- **Ctrl/Cmd + F**: Search
+- **Ctrl/Cmd + S**: Save current item
+- **Ctrl/Cmd + Enter**: Submit form
+- **Ctrl/Cmd + P**: Print current view
+- **Ctrl/Cmd + /**: Show all keyboard shortcuts
+
+## Additional Resources
+
+- Video Tutorials: Available in the Help Center
+- Knowledge Base: Searchable documentation
+- Community Forum: Connect with other users
+- Support Tickets: Request assistance from our team
+- Webinars: Regular training sessions on advanced features
+- API Documentation: For developers integrating with our platform 

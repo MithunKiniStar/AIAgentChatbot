@@ -1,0 +1,16 @@
+com/agents/service/exception/GlobalExceptionHandler.class
+com/agents/service/AgentServiceApplication.class
+com/agents/service/controller/ProjectController.class
+com/agents/service/model/User.class
+com/agents/service/model/Project.class
+com/agents/service/model/Task$TaskBuilder.class
+com/agents/service/service/DataService.class
+com/agents/service/config/WebConfig.class
+com/agents/service/model/Task.class
+com/agents/service/controller/TaskController.class
+com/agents/service/controller/WelcomeController.class
+com/agents/service/model/Project$ProjectBuilder.class
+com/agents/service/config/OpenApiConfig.class
+com/agents/service/model/User$UserBuilder.class
+com/agents/service/exception/GlobalExceptionHandler$ErrorResponse.class
+com/agents/service/controller/UserController.class
